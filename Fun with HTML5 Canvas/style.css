@@ -3,7 +3,6 @@ html {
     height: 100%;
 }
 
-
 .paint {
     max-width: 1170px;
     padding-left: 15px;
@@ -21,7 +20,6 @@ html {
     align-items: center;
     justify-content: center;
 }
-
 
 button#but {
     height: 40px;
